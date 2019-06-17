@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=super_drogas_project
+POSTGRES_USER=TMruKQrDrctmLRjTphdyIngOALIxHiQd
+POSTGRES_PASSWORD=SpbMcAqVknyJcq56W3yWBzeILpn3yip9AncAxFR3c60XDx4tpk93TLeokdzXjmHE
